@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mHome"
+        android:title="Danh sách"
+        android:icon="@drawable/icon_home"/>
+    <item android:id="@+id/mHistory"
+        android:title="Thông tin"
+        android:icon="@drawable/icon_infor"/>
+    <item android:id="@+id/mSearch"
+        android:title="Tìm kiếm"
+        android:icon="@drawable/icon_search"/>
+</menu>
